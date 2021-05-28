@@ -1,0 +1,23 @@
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: #0F0F0F;
+  background-color: #FEF6F1 }
+ul.Praise {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  left: 1em;
+  width: 9em }
+h1 {
+  font-family: Georgia, "Times New Roman",
+        Times, serif }
+
+ul{list-style-type:none;}
+li{float:left;border-right:1px solid #000000;}
+li a{display:block;width:100px;height:50px;background-color:#e88383;text-align:center;text-decoration:none;line-height:50px;color:#ffffff;overflow:hidden;}
+li:last-child {border-right: none;}
+
